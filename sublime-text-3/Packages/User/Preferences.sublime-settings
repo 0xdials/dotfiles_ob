@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Monokai-Midnight.tmTheme",
+	"font_face": "Input",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}
